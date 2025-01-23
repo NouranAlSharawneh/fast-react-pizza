@@ -16,7 +16,7 @@ function Home() {
           className="h-full w-full"
           camera={{ position: [2, 2, 11] }} // Camera positioned to view the object
         >
-          <ambientLight intensity={1.5} />
+          <ambientLight intensity={2.5} />
           <OrbitControls enableDamping enableZoom={false} />
           <Suspense fallback={null}>
             {/* Centering the Pizza */}
