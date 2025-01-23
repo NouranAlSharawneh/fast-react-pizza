@@ -50,7 +50,7 @@ function CreateOrder() {
 
       <Form method="POST" action="/order/new">
         <div className="mb-5 flex flex-col gap-2 sm:flex-row sm:items-center">
-          <label className="sm:basis-40">First Name</label>
+          <label className="sm:basis-40">Full Name</label>
           <input
             type="text"
             name="customer"
@@ -99,7 +99,7 @@ function CreateOrder() {
           </div>
 
           {!position.latitude && !position.longitude && (
-            <span className="absolute right-[3px] top-[3px] z-50 md:right-[5px] md:top-[5px]">
+            <span className="absolute right-[3px] top-[35px] z-50 md:right-[5px] md:top-[5px]">
               <Button
                 disabled={isLoadingAddress}
                 onClick={(e) => {
