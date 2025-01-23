@@ -1,8 +1,35 @@
-# React + Vite
+# Fast Nunu Pizza 🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fast food delivery website where ypu can order pizza's! This project demonstrates a robust frontend implementation built using React and Redux Toolkit, styled with CSS, and deployed on Vercel.
 
-Currently, two official plugins are available:
+## Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://fastnunupizza-pi.vercel.app/](https://fastnunupizza-pi.vercel.app/)
+
+## Features
+
+- 3D Pizza Model
+- Interactive Menu
+- Order Form with validation
+- Cart Overview
+- Responsive design
+- Fast page loading times
+
+## Tech Stack
+
+- React.js
+- Three.js
+- Tailwind CSS
+
+## How to Run Locally
+
+1. Clone the repo
+2. Run `npm install` to install dependencies
+3. Run `npm run dev` to start the development server
+4. Open [http://localhost:5173](http://localhost:5173) with your browser to see the result
+
+## How to Build and Deploy
+
+1. Run `npm run build` to build the application
+2. Run `npm run export` to export the application as static HTML
+3. Deploy the `out` folder to your preferred hosting platform
