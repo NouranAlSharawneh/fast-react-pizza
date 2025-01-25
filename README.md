@@ -1,10 +1,15 @@
 # Fast Nunu Pizza 🍕
 
-This is a fast food delivery website where ypu can order pizza's! This project demonstrates a robust frontend implementation built using React and Redux Toolkit, styled with CSS, and deployed on Vercel.
+This is a fast-food delivery website where you can order pizzas! This project demonstrates a robust frontend implementation built using React and Redux Toolkit, styled with CSS, and deployed on Vercel.
 
 ## Live Site
 
 [https://fastnunupizza-pi.vercel.app/](https://fastnunupizza-pi.vercel.app/)
+
+
+![image](https://github.com/user-attachments/assets/ec6b83f0-e97b-4b37-ab96-71409b337d6e)
+
+
 
 ## Features
 
